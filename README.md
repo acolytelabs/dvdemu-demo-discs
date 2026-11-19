@@ -11,6 +11,7 @@ See [Releases](../../releases) for the ISO files.
 | Disc | Size | Contents |
 |---|---|---|
 | Tears of Steel (2012) | 521 MB | 12-minute film, 5.1 + stereo audio, 9 subtitle languages, scene selection, extras |
+| Tears of Steel, short (2012) | 130 MB | A 3.5-minute excerpt with the same menus, audio and subtitles. DVDemu can download this one for you: **+ > Get the free demo disc** |
 
 ## How to use
 
